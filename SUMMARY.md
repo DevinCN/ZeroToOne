@@ -12,8 +12,8 @@
       * [1 1 3](part-1/chapter-1/1-1/1-1-3.md)
     * 1 2
     * 1 3
-  * [第2部分 ](part-1/chapter-2.md)
-  * [chapter 3](part-1/chapter-3.md)
+  * [第2章 ](part-1/chapter-2.md)
+  * [第3章 ](part-1/chapter-3.md)
 * [第2部分 ](part-2.md)
 * [第3部分 ](part-3.md)
 * [结语](end.md)
