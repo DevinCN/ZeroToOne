@@ -1,8 +1,8 @@
 # Summary
 
 * [简介](README.md)
-* [part 1](part-1.md)
-  * [第1部分 ](part-1/chapter-1.md)
+* [第1部分 ](part-1.md)
+  * [第1章 ](part-1/chapter-1.md)
     * [1 1](part-1/chapter-1/1-1.md)
       * [1 1 1](part-1/chapter-1/1-1/1-1-1.md)
         * \(1\)
